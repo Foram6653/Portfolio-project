@@ -1,0 +1,8 @@
+body{
+  font-family: Inter, sans-serif;
+  background-color: #EBE9DF;
+  color: #cec5c5;
+  .hero-title .char{
+display:inline-block;
+}
+}
